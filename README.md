@@ -8,7 +8,7 @@ Here you can authorise your app with the API and then use helper functions to ma
 Examples
 --------------
 
-Examples can be found (suprisingly) in the `examples/` folder.
+Examples can be found (surprisingly) in the `examples/` folder.
 
 * The `auth.php` file shows you how to authorise your app with the SageOne API and retrieve an access token.
 * The other examples show how to use indiviudal helper functions to make requests to the API
