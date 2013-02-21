@@ -34,10 +34,9 @@ if(!$_GET['code']){
     echo '<br>';
     echo $accessToken['accessToken'];
     
-    // You can now store that access token in your database against that user or
-    // as a constant if you are talking with the api for your account only.
+    // Note: The access token does not expire so you can now store that access
+    // token in your database against that user or as a constant if you are
+    // talking with the api for your account only.
 }
-
-// Note: The access token does not expire so you 
 
 ?>
