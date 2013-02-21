@@ -6,7 +6,7 @@ Description: A PHP Library to access the SageOne API
 Version: 0.1
 Author: Eddie Harrison
 
-Copyright 2012  Eddie Harrison  (email:eddie@eddieharrison.co.uk)
+Copyright 2013  Eddie Harrison  (email:eddie@eddieharrison.co.uk)
 */
 
 class SageOne {
